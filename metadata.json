@@ -1,0 +1,7 @@
+{
+  "name": "Ban CNTT - QLKCN",
+  "description": "Hệ thống quản lý thu chi và phân tích tài chính thông minh dành cho Khu công nghiệp (Industrial Zone Management System)",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
